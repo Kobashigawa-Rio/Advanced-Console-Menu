@@ -1,0 +1,1 @@
+The file "player.txt" must be in the same path as the project. But isn't necesarry to add this you can add this file if you want to make a test. also the program generate a new file if the file didn't exist.
